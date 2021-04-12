@@ -1,9 +1,6 @@
-# Docker first application example
+# Test of GitHub Docker registry by GitHub Actions
 
-This project was realized as part of my article "A beginner's guide to Docker - how to create your first Docker application".
-This project is an example of a first application with Docker.
-
-If you want to know more about Docker and learn how to create your first application, [you can read my article](https://medium.freecodecamp.org/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f).
+https://github.blog/2020-09-01-introducing-github-container-registry/
 
 ## How to run ?
 
